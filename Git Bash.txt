@@ -1,0 +1,14 @@
+git clone https://github.com/repo
+
+git add .
+    
+git commit -m "1st commit "
+    
+git push origin main
+
+Create Branch -> git checkout -b branch/foldername
+
+Switch Branch -> git checkout branch/foldername
+
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
