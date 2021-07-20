@@ -1,7 +1,9 @@
+# Laravel Practice Repository
+
 ## Author 
 [Nafi Mahmud][author]
 
-[author]: https://sourcebd.github.io/nafi.com/
+[author]: https://sourcecodebd.github.io/nafi.com/
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
