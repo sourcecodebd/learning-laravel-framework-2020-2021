@@ -1,0 +1,5 @@
+To combine Laravel 5 and Laravel 8
+In RouteServiceProvider class, add------->
+
+protected $namespace = 'App\Http\Controllers';
+public const HOME = '/E-Pay/social/home';

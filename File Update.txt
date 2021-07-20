@@ -1,0 +1,4 @@
+composer update --no-scripts
+composer dump-autoload
+php artisan route:clear
+

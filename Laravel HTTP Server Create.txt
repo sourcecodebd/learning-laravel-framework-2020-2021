@@ -1,0 +1,5 @@
+php artisan serve
+
+Server port change:
+
+php artisan serve --port 8000
